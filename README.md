@@ -14,3 +14,4 @@ This project is my final submission from Dicoding Belajar Fundamental React. You
 - Login & Logout Account
 - Switch language ( From english to bahasa & vice versa)
 - Dark Mode
+- Active notes & Archived notes
